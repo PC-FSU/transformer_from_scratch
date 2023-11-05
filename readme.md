@@ -1,6 +1,6 @@
 # Attention is all you need
 
-I try to follow this [tutorial](https://youtu.be/ISNdQcPhsts) to implement attention is all you need [paper](https://arxiv.org/abs/1706.03762). For original work please refer to the link provided above. 
+I try to follow this [tutorial](https://youtu.be/ISNdQcPhsts) to implement "Attention is all you need" [paper](https://arxiv.org/abs/1706.03762). For original work please refer to the link provided above. 
 
 ## Project Files
 
